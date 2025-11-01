@@ -1,0 +1,4 @@
+{
+  "$schema": "https://docs.expo.dev/versions/latest/config/app-schema.json",
+  "extends": "./app.json"
+}
