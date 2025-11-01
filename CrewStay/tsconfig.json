@@ -6,6 +6,7 @@
     "lib": ["DOM", "ESNext"],
     "module": "esnext",
     "moduleResolution": "node",
+    "customConditions": ["react-native"],
     "noEmit": true,
     "resolveJsonModule": true,
     "skipLibCheck": true,
